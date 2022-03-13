@@ -81,7 +81,7 @@ function searchProduct(title) {
 // EXAMPLE: searchProduct('COFFEE');
 
 
-// PROBLE-3: CALCULATE THE TOTAL AMOUNT OF 1 YEAR IF EACH DAY DEPOSIT 10 TK.
+// PROBLE-3: CALCULATE THE TOTAL AMOUNT OF DEPOSIT IN  1 YEAR IF EACH DAY DEPOSIT 10 TK.
 
 
 function totalDepositCalculate(year) {
